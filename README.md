@@ -30,3 +30,6 @@ Many ML algorithms perform better or converge faster when features are on a rela
 
 
 Applying different ML Algorithms to the dataset for predictions. Their accuracies are in notebook.
+
+
+Please see my work. And I am open to suggestion.
