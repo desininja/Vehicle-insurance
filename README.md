@@ -1,15 +1,16 @@
 # Vehicle-insurance
-Data science project
+
 
 
 Vehicle Insurance data:
 This dataset contains multiple features according to the customer’s vehicle and insurance type.
 
-Business requirement is to increase the clv (customer lifetime value) that means clv is the target variable.
+OBJECTIVE: Business requirement is to increase the clv (customer lifetime value) that means clv is the target variable.
 
 Data Cleansing:
 
 This dataset is pretty clean already, a few outliers are there. Remove the outliers. 
+
 Why remove Outliers?
 Outliers are unusual values in dataset, and they can distort statistical analyses and violate their assumptions.
 
